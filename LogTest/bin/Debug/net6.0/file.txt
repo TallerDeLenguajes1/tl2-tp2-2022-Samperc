@@ -1,0 +1,1 @@
+`2022-09-09 18:39:09.1762|INFO|Program|Hello World`
